@@ -1,0 +1,9 @@
+{
+  "name": "devops-portfolio",
+  "version": "1.0.0",
+  "description": "Simple Node.js DevOps Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
